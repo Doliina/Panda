@@ -1,2 +1,5 @@
 #exclusion fichier html
 *.html
+
+# exclusion du dossier javascript
+javascript/
